@@ -1,6 +1,7 @@
-
-20220418_OcachiOmpa.zip
+# Ignore everything
+*
 2022-04-16.zip
-20220418_OcachiOmpa/*
-20220422_OcachiOmpa/*
-tmp/*
+20220418_OcachiOmpa.zip
+
+# But not these files
+!*.zip
